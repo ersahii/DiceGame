@@ -20,3 +20,13 @@
 .dice{
     margin: 40px 80px;
 }
+#btn{
+    padding: 20px;
+    border:2px solid black;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    display: block;
+    width: 250px;
+    margin: auto;
+}
